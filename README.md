@@ -14,8 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **dylantherese@outlook.com**
 
-- 📄 Know about my experiences on my <a href="https://www.notion.so/Dylan-Therese-Web-Developer-4053f9d367524981ac39d1f3b64a589c">Resume</a>
-
 - ⚡ Fun fact **Just learn how to code**
 
 <h3> My bootcamp projects :</h3>
