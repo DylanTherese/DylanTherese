@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **dylantherese@outlook.com**
 
-- 📄 Know about my experiences on my <a href="https://file.notion.so/f/f/d147a137-ea92-4b8a-9713-7905c4d0f212/d00a6a13-3f51-4302-b3b9-058f3874f907/DylanTherese_CV-Resume.pdf?id=6d303160-d269-4fe3-b102-6f11076dbd36&table=block&spaceId=d147a137-ea92-4b8a-9713-7905c4d0f212&expirationTimestamp=1700812800000&signature=Z5okCFC0ElRX_E27kdZ3Jk5Lvs8-y4bzMeQzAXkIvpI&downloadName=DylanTherese+CV-Resume.pdf](https://file.notion.so/f/f/d147a137-ea92-4b8a-9713-7905c4d0f212/d00a6a13-3f51-4302-b3b9-058f3874f907/DylanTherese_CV-Resume.pdf?id=6d303160-d269-4fe3-b102-6f11076dbd36&table=block&spaceId=d147a137-ea92-4b8a-9713-7905c4d0f212&expirationTimestamp=1700812800000&signature=Z5okCFC0ElRX_E27kdZ3Jk5Lvs8-y4bzMeQzAXkIvpI&downloadName=DylanTherese+CV-Resume.pdf">Resume</a>
+- 📄 Know about my experiences on my <a href="https://www.notion.so/Dylan-Therese-Web-Developer-4053f9d367524981ac39d1f3b64a589c">Resume</a>
 
 - ⚡ Fun fact **Just learn how to code**
 
