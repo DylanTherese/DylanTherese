@@ -10,6 +10,14 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **PHP**
 
+-  👨‍💻 All of my projects are available at [https://www.notion.so/Dylan-Therese-Web-Developer-4053f9d367524981ac39d1f3b64a589c](https://www.notion.so/Dylan-Therese-Web-Developer-4053f9d367524981ac39d1f3b64a589c)
+
+- 📫 How to reach me **dylantherese@outlook.com**
+
+- 📄 Know about my experiences [https://file.notion.so/f/f/d147a137-ea92-4b8a-9713-7905c4d0f212/d00a6a13-3f51-4302-b3b9-058f3874f907/DylanTherese_CV-Resume.pdf?id=6d303160-d269-4fe3-b102-6f11076dbd36&table=block&spaceId=d147a137-ea92-4b8a-9713-7905c4d0f212&expirationTimestamp=1700812800000&signature=Z5okCFC0ElRX_E27kdZ3Jk5Lvs8-y4bzMeQzAXkIvpI&downloadName=DylanTherese+CV-Resume.pdf](https://file.notion.so/f/f/d147a137-ea92-4b8a-9713-7905c4d0f212/d00a6a13-3f51-4302-b3b9-058f3874f907/DylanTherese_CV-Resume.pdf?id=6d303160-d269-4fe3-b102-6f11076dbd36&table=block&spaceId=d147a137-ea92-4b8a-9713-7905c4d0f212&expirationTimestamp=1700812800000&signature=Z5okCFC0ElRX_E27kdZ3Jk5Lvs8-y4bzMeQzAXkIvpI&downloadName=DylanTherese+CV-Resume.pdf)
+
+- ⚡ Fun fact **Just learn how to code**
+
 <h3> My bootcamp projects :</h3>
 <a href="https://volunpeers-fbb2accb8e74.herokuapp.com/">VolunPeers</a>
 <p>It is a platform that allows volunpeers to find or host a cause that fits them</p>
