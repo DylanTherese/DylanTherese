@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **PHP**
 
--  👨‍💻 All of my projects are available on <a href="https://www.notion.so/Dylan-Therese-Web-Developer-4053f9d367524981ac39d1f3b64a589c">Notion</a>
+-  👨‍💻 All of my projects are available <a href="https://www.notion.so/Dylan-Therese-Web-Developer-4053f9d367524981ac39d1f3b64a589c">here</a>
 
 - 📫 How to reach me **dylantherese@outlook.com**
 
