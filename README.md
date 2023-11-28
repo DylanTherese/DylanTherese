@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3> My bootcamp projects :</h3>
 <a href="https://volunpeers-fbb2accb8e74.herokuapp.com/">VolunPeers</a>
-<p>It is a platform that allows volunpeers to find or host a cause that fits them</p>
+<p>It is a platform that allows volunteers to find or host a cause that fits them</p>
 <br>
 <a href="https://github.com/Isaac-Andriamiharisoa/space-nest">SpaceNest</a>
 <p>A fictional platform to rent planets</p>
