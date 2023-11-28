@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **dylantherese@outlook.com**
 
-- ⚡ Fun fact **Just learn how to code**
+- ⚡ Fun fact **just learn how to code**
 
 <h3> My bootcamp projects :</h3>
 <a href="https://volunpeers-fbb2accb8e74.herokuapp.com/">VolunPeers</a>
