@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on **improving my skills on Ruby, Ruby on Rails, CSS and JavaScript**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **JavaScript**
 
 -  👨‍💻 All of my projects are available <a href="https://www.notion.so/Dylan-Therese-Web-Developer-4053f9d367524981ac39d1f3b64a589c">here</a>
 
